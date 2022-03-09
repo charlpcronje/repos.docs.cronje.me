@@ -13,7 +13,7 @@
 | Allow  | All        | TCP      | 8080-8090 | Node.js             |
 | Allow  | All        | TCP      | 445       | Samba               |
 | Allow  | All        | TCP      | 4440-4450 | Docker Apps         |
-| Allow  | All        | TCP      | 4334      | SSH                 |
+| Allow  | All        | TCP      | 0000      | SSH                 |
 | Allow  | All        | TCP      | 4444      | VS Code Server      |
 | Allow  | All        | TCP      | 8200      | Vault               |
 | Allow  | All        | TCP      | 5678      | n8n                 |
