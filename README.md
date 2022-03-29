@@ -1,3 +1,15 @@
+---
+title: Server Config and VHosts - DEVserv.ME
+label: Server Config and VHosts
+order: 100
+authors:
+  - name: Charl Cronje
+    email: charl@devserv.me
+    link: https://charl-cv.devserv.me
+    avatar: https://assets.devserv.me/avatars/darker.jpg
+tags: [open source,dev,software,contribute,js,php,firebase,mysql,oracle,log]
+---
+
 ```sh
  __..___.__ .  ..___.__    .__ .___.  .   .  ..___
 (__ [__ [__)\  /[__ [__)   |  \[__ \  /   |\/|[__ 

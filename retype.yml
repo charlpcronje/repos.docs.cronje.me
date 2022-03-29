@@ -1,6 +1,6 @@
 input: src
 output: public
-url: https://setup-docs.devserv.me
+url: https://server-docs.devserv.me
 branding:
   title: DEVserv.ME Server Docs
   label: Docs
