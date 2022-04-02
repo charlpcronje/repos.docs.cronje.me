@@ -1,5 +1,5 @@
 ---
-title: Server Config and VHosts - DEVserv.ME
+title: Server Config & VHosts | DEVserv.ME
 label: Server Config and VHosts
 order: 100
 authors:
