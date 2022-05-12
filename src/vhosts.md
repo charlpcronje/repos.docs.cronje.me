@@ -16,7 +16,7 @@
 
 | URL                                                                        | Path
 |----------------------------------------------------------------------------|----------------------------------------
-| [http://assets.CRONje.ME](http://assets.CRONje.ME)                       | `/var/www/assets/`
+| [http://assets.cronje.me](http://assets.cronje.me)                       | `/var/www/assets/`
 
 ## Documentation
 

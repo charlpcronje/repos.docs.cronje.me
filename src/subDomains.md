@@ -33,7 +33,7 @@
 | Status | DOMAIN                                | IP ADDRESS    | PORT | DESCRIPTION                                                                              |
 |--------|---------------------------------------|---------------|------|------------------------------------------------------------------------------------------|
 | √ √ √  | http://api.CRONje.ME                 | 104.192.7.185 | 8080 | DEVSERV MANAGEMENT API - Under Construction                                              |
-| √ √ √  | http://assets.CRONje.ME              | 104.192.7.185 | 8002 | Host any resource thats used by multiple systems                                         |
+| √ √ √  | http://assets.cronje.me              | 104.192.7.185 | 8002 | Host any resource thats used by multiple systems                                         |
 |   -    | http://auth.CRONje.ME                | 104.192.7.185 | 8003 | DEVSERV OAUTH 2 Public Auth Server (Google Implemented)                                  |
 | √      | http://invoice.CRONje.ME             | 104.192.7.185 | 8004 | webAlly's Invoicing system                                                               |
 |        | http://crm.CRONje.ME                 | 104.192.7.185 | 8004 | ---                                                                                      |
