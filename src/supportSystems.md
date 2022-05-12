@@ -29,4 +29,4 @@
 
 | User              | Password            |
 |-------------------|---------------------|
-| adnin@devserv.me  | Sign-in with Google |
+| adnin@CRONje.ME  | Sign-in with Google |

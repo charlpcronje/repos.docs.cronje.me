@@ -1,12 +1,12 @@
 ---
-title: Server Config & VHosts | DEVserv.ME
+title: Server Config & VHosts | CRONje.ME
 label: Server Config and VHosts
 order: 100
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
+    email: charl@CRONje.ME
+    link: https://charl-cv.CRONje.ME
+    avatar: https://assets.CRONje.ME/avatars/darker.jpg
 tags: [open source,dev,software,contribute,js,php,firebase,mysql,oracle,log]
 ---
 
@@ -18,5 +18,5 @@ tags: [open source,dev,software,contribute,js,php,firebase,mysql,oracle,log]
 
 # SERVER DNS, VHOSTS, FIREWALL
 
-- This repo will become a sub-module of docs.devserv.me.
+- This repo will become a sub-module of docs.CRONje.ME.
 - Go to [./src/README.md](./src/README.md) for the root of this repo
