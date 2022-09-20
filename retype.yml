@@ -1,6 +1,6 @@
 input: src
 output: public
-url: http://kali.docs.cronje.me
+url: http://server.docs.cronje.me
 branding:
   title: CRONJje.ME | Server Setup & Configure Docs
   label: SERVER
