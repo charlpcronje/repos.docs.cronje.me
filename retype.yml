@@ -1,6 +1,6 @@
 input: src
 output: public
-url: http://server.docs.cronje.me
+url: http://kali.docs.cronje.me
 branding:
   title: CRONJje.ME | Server Setup & Configure Docs
   label: SERVER
@@ -18,7 +18,7 @@ links:
   link: https://www.linkedin.com/in/charlpcronje
 - text: GitHub
   link: https://github.com/charlpcronje
-- text: Upwork Profile
+- text: UpWork Profile
   link: https://www.upwork.com/freelancers/~01ccb1439024ec9c50
 footer:
   copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
